@@ -1,0 +1,39 @@
+body{
+    background-color: #1D4350;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #A43931, #1D4350);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #A43931, #1D4350); 
+
+
+    h1 {
+        font-size: 'larger';
+        color: #c7a7cf;
+        margin: center;
+       
+        font-style: italic;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+
+
+    h2 {
+        text-align: center;
+        font-size: 50px;
+        color: #c7a7cf;
+    }
+    ul{
+        li{
+            font-size: larger;
+            text-align:left;
+            color: bisque;
+            font-style:inherit;
+        }
+    }
+    h3{
+        font-size: 40px;
+        text-align: left;
+        color:#c7a7cf ;
+        font-style:oblique;
+    }
+    }
+
+
